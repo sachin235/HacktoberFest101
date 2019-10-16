@@ -2,6 +2,6 @@
 
 Edit this markdown file and commit the PR
 
-### Sachin
+### harsh
 - DTU
-- C++
+- PHP
