@@ -2,7 +2,8 @@
 
  A repository to help budding developers have their first commit!
 
-### Send a PR and complete the HactoberFest challenge...
+### Send a PR and complete the HactoberFest challenge....
+
 
 ## Steps 
 - Clone this repository
