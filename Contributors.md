@@ -9,3 +9,7 @@ Edit this markdown file and commit the PR
 ### Shivam
 - NSUT
 - Python
+
+### George Devasia
+- Python
+- Java
