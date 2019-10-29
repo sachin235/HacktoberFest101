@@ -1,6 +1,5 @@
 #include <bits/stdc++.h>
 using namespace std;
-
 #define fastIO ios::sync_with_stdio(false);	cin.tie(NULL); cout.tie(NULL);
 #define asc(s) sort(s.begin(),s.end())
 #define des(s) sort(s.rbegin(),s.rend())
@@ -17,12 +16,9 @@ typedef long long ll;
 
 int main()
 {
-
-    fastIO
-    
+    fastIO   
     ll t;
     cin>>t;
-
     while(t--){
         ll n,p,mx=-1,c=0;
         cin>>n>>p;
