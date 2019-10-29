@@ -12,12 +12,17 @@ using namespace std;
 #define precision(x,p) fixed<<setprecision(p)<<x
 #define mod 1000000007
 #define PI 3.14159265358979
+
 typedef long long ll;
+
 int main()
 {
+
     fastIO
+    
     ll t;
     cin>>t;
+
     while(t--){
         ll n,p,mx=-1,c=0;
         cin>>n>>p;
@@ -31,6 +36,7 @@ int main()
                 }
             }
         }
+        
         for(ll i=1;i<=p;i++){
             for(ll j=1;j<=p;j++){
                 for(ll k=1;k<=p;k++){
@@ -42,7 +48,9 @@ int main()
                 }
             }
         }
+        
         cout<<c<<"\n";
+    
     }
 
     return 0;
