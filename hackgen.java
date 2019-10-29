@@ -3,7 +3,6 @@ import java.io.PrintWriter;
 import java.util.Arrays;
 import java.util.Random;
 
-
 /**
  * Generator which creates a test where Java 7 dual-pivot quicksort algorithm runs in O(n^2) time.
  * 
@@ -18,6 +17,7 @@ import java.util.Random;
  * @author Alexey Dergunov
  * @since  1.7
  */
+
 public class Main implements Runnable {
 
     private final Random rnd = new Random(239);
@@ -432,6 +432,7 @@ public class Main implements Runnable {
 //            hackedSort(a, p, great + 1, right, false, depth + 1);
         }
     }
+
     
     private void randomShuffle(int[] a, int left, int right) {
         for (int i = left; i <= right; i++) {
