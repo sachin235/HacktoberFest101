@@ -10,6 +10,10 @@ Edit this markdown file and commit the PR
 - NSUT
 - Python
 
+### Aakash
+- DTU
+- Java
+
 ### George Devasia
 - Python
-- Java
+
