@@ -13,3 +13,7 @@ Edit this markdown file and commit the PR
 ### Aakash
 - DTU
 - Java
+
+### George Devasia
+- Python
+
