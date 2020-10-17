@@ -3,6 +3,7 @@ using namespace std;
 class node{
 //MADE BY SHIVAM SINGLA (@shivam7374)
 public:
+
 	int data;
 	node *next;
 
