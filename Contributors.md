@@ -17,6 +17,11 @@ Edit this markdown file and commit the PR
 ### George Devasia
 - Python
 
-###Vaishnavi 
-VIT
+### Vaishnavi 
+-VIT
 -Java
+
+### Ekansh
+- DTU
+- Python
+
