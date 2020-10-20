@@ -17,6 +17,11 @@ Edit this markdown file and commit the PR
 ### George Devasia
 - Python
 
+
+### Onkar Setia
+- CUH
+- JAVA
+
 ### Vaishnavi 
 -VIT
 -Java
@@ -24,4 +29,5 @@ Edit this markdown file and commit the PR
 ### Ekansh
 - DTU
 - Python
+
 
