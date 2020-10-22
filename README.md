@@ -22,3 +22,9 @@ Hacktoberfest is open to everyone in our global community. All backgrounds and s
 - Make a PR (Pull Request)
 
 And Have Fun!!!
+
+## Getting started with Git
+
+- [Git Tutorial](https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git)
+
+- [Git CheatSheet](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
