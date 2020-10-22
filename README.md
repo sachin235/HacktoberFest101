@@ -12,12 +12,13 @@ Hacktoberfest is open to everyone in our global community. All backgrounds and s
 
 ### Contribute to Open Source and make a valid PR to complete the HactoberFest challenge...
 
-## Steps
+## Steps for contribution
 
-- Clone this repository
+- Fork this repository
+- Star the repo
 - Add your details in the Contributors file
 - You can also add basic programs in your favorite programming language, say Hello World :)
-- Commit the changes
+- Add file and commit the changes
 - Make a PR (Pull Request)
 
 And Have Fun!!!
