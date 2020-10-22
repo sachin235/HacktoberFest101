@@ -28,3 +28,11 @@ And Have Fun!!!
 - [Git Tutorial](https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git)
 
 - [Git CheatSheet](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
+
+# How to create a Pull Request
+
+[Creating Pull Request](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
+
+# How to rebase and update Pull Request
+
+[Rebasing and Updating Pull Request](https://www.digitalocean.com/community/tutorials/how-to-rebase-and-update-a-pull-request)
