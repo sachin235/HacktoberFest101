@@ -30,4 +30,6 @@ Edit this markdown file and commit the PR
 - DTU
 - Python
 
-
+### Naman Taneja
+- NSUT
+- Python
