@@ -25,14 +25,12 @@ And Have Fun!!!
 
 ## Getting started with Git
 
+These are some useful resources for the beginners:
+
 - [Git Tutorial](https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git)
 
 - [Git CheatSheet](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
 
-# How to create a Pull Request
+- [How to create a Pull Request](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
 
-[Creating Pull Request](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
-
-# How to rebase and update Pull Request
-
-[Rebasing and Updating Pull Request](https://www.digitalocean.com/community/tutorials/how-to-rebase-and-update-a-pull-request)
+- [How to rebase and update Pull Request](https://www.digitalocean.com/community/tutorials/how-to-rebase-and-update-a-pull-request)
