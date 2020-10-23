@@ -1,0 +1,27 @@
+#include<iostream.h>
+#include<conio.h>
+
+void main()
+{
+int arm=0,a,b,c,d,no; 
+clrscr();
+cout<<"Enter any num: ";
+ cin>>no;
+d=no;
+while(no>0)
+{
+a=no%10;
+no=no/10;
+arm=arm+a*a*a;
+}
+if(arm==d)
+{
+cout<<"Armstrong";
+}
+else
+{
+cout<<"not Armstrong";
+}
+getch();
+}
+//please accept my PR
