@@ -30,4 +30,8 @@ Edit this markdown file and commit the PR
 - DTU
 - Python
 
+ ### Riya
+ - KIIT
+ - C++
+
 
