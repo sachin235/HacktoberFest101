@@ -33,3 +33,8 @@ Edit this markdown file and commit the PR
 ### Naman Taneja
 - NSUT
 - Python
+
+ ### Riya
+ - KIIT
+ - C++
+
