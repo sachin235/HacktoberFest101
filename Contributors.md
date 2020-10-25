@@ -41,3 +41,7 @@ Edit this markdown file and commit the PR
 ### Bhumika Dhingra
  - BPIT
  - Python
+
+### Vikalp Shishodia
+ - DTU
+ - C++
