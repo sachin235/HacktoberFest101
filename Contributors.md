@@ -38,3 +38,6 @@ Edit this markdown file and commit the PR
  - KIIT
  - C++
 
+### Bhumika Dhingra
+ - BPIT
+ - Python
