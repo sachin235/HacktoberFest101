@@ -37,4 +37,8 @@ Edit this markdown file and commit the PR
  ### Riya
  - KIIT
  - C++
+ 
+ ### Kartik
+ - DTU
+ - C++
 
