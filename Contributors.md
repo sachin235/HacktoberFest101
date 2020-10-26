@@ -45,3 +45,7 @@ Edit this markdown file and commit the PR
 ### Vikalp Shishodia
  - DTU
  - C++
+ 
+### Piyush waliyan
+ - BPIT
+ - Java
