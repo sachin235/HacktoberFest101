@@ -46,6 +46,12 @@ Edit this markdown file and commit the PR
  - BPIT
  - Python
 
+### Apoorva Gupta
+ - DTU
+ - JAVA
+
 ### Vikalp Shishodia
  - DTU
  - C++
+
+
