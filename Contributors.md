@@ -22,7 +22,7 @@ Edit this markdown file and commit the PR
 - CUH
 - JAVA
 
-### Vaishnavi 
+### Vaishnavi
 -VIT
 -Java
 
@@ -37,7 +37,7 @@ Edit this markdown file and commit the PR
  ### Riya
  - KIIT
  - C++
- 
+
  ### Kartik
  - DTU
  - C++
@@ -54,4 +54,7 @@ Edit this markdown file and commit the PR
  - DTU
  - C++
 
+### Garrett
+- Self Taught
+- JavaScript
 
