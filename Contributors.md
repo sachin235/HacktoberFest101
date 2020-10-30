@@ -62,7 +62,11 @@ Edit this markdown file and commit the PR
  - DTU
  - C++
  
- ### Deepanshu
+### Sachin Sharma 
+ -BPIT
+ -PYTHON
+
+### Deepanshu
  - DTU
  - C++
 
