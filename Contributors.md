@@ -22,13 +22,17 @@ Edit this markdown file and commit the PR
 - CUH
 - JAVA
 
-### Vaishnavi 
+### Vaishnavi
 -VIT
 -Java
 
 ### Ekansh
 - DTU
 - Python
+
+### Saurabh Kumar
+- Delhi University
+- Java
 
 ### Naman Taneja
 - NSUT
@@ -38,9 +42,21 @@ Edit this markdown file and commit the PR
  - KIIT
  - C++
 
+ ### Kartik
+ - DTU
+ - C++
+
 ### Bhumika Dhingra
  - BPIT
  - Python
+
+### Dajinder Singh
+ - BPIT
+ - Java
+
+### Apoorva Gupta
+ - DTU
+ - JAVA
 
 ### Vikalp Shishodia
  - DTU
@@ -49,3 +65,12 @@ Edit this markdown file and commit the PR
 ### Sachin Sharma 
  -BPIT
  -PYTHON
+
+### Deepanshu
+ - DTU
+ - C++
+
+### Garrett
+- Self Taught
+- JavaScript
+
