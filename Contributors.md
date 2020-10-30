@@ -17,7 +17,12 @@ Edit this markdown file and commit the PR
 ### George Devasia
 - Python
 
-### Vaishnavi 
+
+### Onkar Setia
+- CUH
+- JAVA
+
+### Vaishnavi
 -VIT
 -Java
 
@@ -28,4 +33,37 @@ Edit this markdown file and commit the PR
 ### Saurabh Kumar
 - Delhi University
 - Java
+
+### Naman Taneja
+- NSUT
+- Python
+
+ ### Riya
+ - KIIT
+ - C++
+
+ ### Kartik
+ - DTU
+ - C++
+
+### Bhumika Dhingra
+ - BPIT
+ - Python
+
+### Apoorva Gupta
+ - DTU
+ - JAVA
+
+### Vikalp Shishodia
+ - DTU
+ - C++
+ 
+ ### Deepanshu
+ - DTU
+ - C++
+
+### Garrett
+- Self Taught
+- JavaScript
+
 
