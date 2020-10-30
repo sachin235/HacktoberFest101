@@ -61,10 +61,6 @@ Edit this markdown file and commit the PR
 ### Vikalp Shishodia
  - DTU
  - C++
-
-### Vishal Waliyan
- - BPIT
- - Java
  
 ### Piyush waliyan
  - BPIT
@@ -81,3 +77,4 @@ Edit this markdown file and commit the PR
 ### Garrett
 - Self Taught
 - JavaScript
+
