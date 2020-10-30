@@ -50,6 +50,10 @@ Edit this markdown file and commit the PR
  - BPIT
  - Python
 
+### Dajinder Singh
+ - BPIT
+ - Java
+
 ### Apoorva Gupta
  - DTU
  - JAVA
@@ -65,5 +69,4 @@ Edit this markdown file and commit the PR
 ### Garrett
 - Self Taught
 - JavaScript
-
 
