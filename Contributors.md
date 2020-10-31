@@ -61,12 +61,12 @@ Edit this markdown file and commit the PR
 ### Vikalp Shishodia
  - DTU
  - C++
- 
+
 ### Piyush waliyan
  - BPIT
  - Java
 
-### Sachin Sharma 
+### Sachin Sharma
  -BPIT
  -PYTHON
 
@@ -78,3 +78,7 @@ Edit this markdown file and commit the PR
 - Self Taught
 - JavaScript
 
+### Akash
+- DTU
+- C++
+- [a link](https://github.com/aakashkumarjee)
