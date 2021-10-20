@@ -1,6 +1,7 @@
 # HacktoberFest
+![HacktoberFest2021](https://user-images.githubusercontent.com/75477054/137994932-6beb2692-970f-4168-b8e5-e2b4bef0bc67.jpg)
 
-## ![Hacktober Fest 2020](HacktoberFest.jpg)
+<! --- ## ![Hacktober Fest 2020](HacktoberFest.jpg) -->
 
 A repository to help budding developers have their first commit!
 
