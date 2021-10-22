@@ -82,3 +82,7 @@ Edit this markdown file and commit the PR
 - DTU
 - C++
 - [a link](https://github.com/aakashkumarjee)
+
+### Mansi Singh
+- LPU
+- Java
