@@ -48,41 +48,41 @@ Edit this markdown file and commit the PR
 - NSUT
 - Python
 
- ### Riya
- - KIIT
- - C++
+### Riya
+- KIIT
+- C++
 
- ### Kartik
- - DTU
- - C++
+### Kartik
+- DTU
+- C++
 
 ### Bhumika Dhingra
- - BPIT
- - Python
+- BPIT
+- Python
 
 ### Dajinder Singh
- - BPIT
- - Java
+- BPIT
+- Java
 
 ### Apoorva Gupta
- - DTU
- - JAVA
+- DTU
+- JAVA
 
 ### Vikalp Shishodia
- - DTU
- - C++
+- DTU
+- C++
 
 ### Piyush waliyan
- - BPIT
- - Java
+- BPIT
+- Java
 
 ### Sachin Sharma
- -BPIT
- -PYTHON
+- BPIT
+- Python
 
 ### Deepanshu
- - DTU
- - C++
+- DTU
+- C++
 
 ### Garrett
 - Self Taught
@@ -91,7 +91,6 @@ Edit this markdown file and commit the PR
 ### Akash
 - DTU
 - C++
-- [a link](https://github.com/aakashkumarjee)
 
 ### Mansi Singh
 - LPU
