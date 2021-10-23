@@ -96,3 +96,7 @@ Edit this markdown file and commit the PR
 ### Mansi Singh
 - LPU
 - Java
+
+### Tharindu Dilshan
+- IIT
+- Java
