@@ -20,4 +20,4 @@ TheQueue.addtoq("Thursday")
 TheQueue.addtoq("Friday")
 print(TheQueue.size())
 
-#Output: 3
+#Output: 5
