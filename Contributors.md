@@ -10,11 +10,9 @@ Edit this markdown file and commit the PR
 - DTU
 - C++
 
-### Hammad
-- FAST NU
-- C++ 
-- Python 
-- Javascript
+### Hammad Ahmed
+- FAST NU, Islamabad, Pakistan
+- C++, Python, Javascript
 
 ### Shivam
 - NSUT
