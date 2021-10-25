@@ -97,3 +97,8 @@ Edit this markdown file and commit the PR
 ### Tharindu Dilshan
 - IIT
 - Java
+
+### Tajdar Alam (MacTavish)
+- Java
+- Python
+- Bash Script
