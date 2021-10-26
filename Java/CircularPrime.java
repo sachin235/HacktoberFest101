@@ -1,5 +1,7 @@
+//Progran to check whether a number is circular prime or not
+
 import java.util.*;
-public class ISC2016Q1 {
+public class CircularPrime {
     public static void main(String[] args) {
     int N;
     Scanner in = new Scanner(System.in);
