@@ -34,7 +34,7 @@ implements MouseListener, ActionListener, WindowListener
     JButton second;
     String s1 = "";
     
-    public GameApplet()
+    public TicTacToe()
     {
         this.f = new JFrame("Tic Tac Toe");
         this.first = new JButton("CLEAR");
@@ -87,7 +87,7 @@ implements MouseListener, ActionListener, WindowListener
         {
             this.f.setVisible(false);
             bug = 0;
-            new GameApplet();
+            new TicTacToe();
         }
         if (ae.getSource() == this.second)
         {
@@ -221,7 +221,7 @@ implements MouseListener, ActionListener, WindowListener
     
     public static void main(String[] args)
     {
-        new GameApplet();
+        new TicTacToe();
     }
 }
 
