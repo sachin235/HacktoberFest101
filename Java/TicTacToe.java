@@ -1,3 +1,6 @@
+//TicTacToe game created using applet
+
+
 import java.applet.Applet;
 import java.awt.BasicStroke;
 import java.awt.Color;
@@ -17,7 +20,7 @@ import javax.swing.JDialog;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
-public class GameApplet extends Applet
+public class TicTacToe extends Applet
 implements MouseListener, ActionListener, WindowListener
 {
     JFrame f;
