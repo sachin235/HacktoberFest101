@@ -1,5 +1,8 @@
+//Program to calculate the sum of any given 2 dimensional matrix within the range of 3 to 10 (3X3 to 10X10)
+
+
 import java.util.*;
-public class ISC2016Q2 {
+public class SumOfDiagonalElementsInMatrix {
     public static void main(String[] args) {
         int M;
         Scanner in = new Scanner(System.in);
