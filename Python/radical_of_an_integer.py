@@ -1,7 +1,3 @@
-### AUTHOR: Animesh
-##Python3 Concept: Find radical of a positive integer
-## GITHUB: https://github.com/animesh-77
-
 ''' this program prints the radical of an inputted positive integer 
 the definition of radical of an integer can be found here
 https://en.wikipedia.org/wiki/Radical_of_an_integer
