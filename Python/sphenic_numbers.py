@@ -1,7 +1,3 @@
-### AUTHOR: Animesh
-##Python3 Concept: Find the nth sphenic number
-## GITHUB: https://github.com/animesh-77
-
 '''This program prints the nth sphenic number. The definition of sphenic number can be found here
 https://en.wikipedia.org/wiki/Sphenic_number#:~:text=7%20References-,Definition,%2Dfree%203%2Dalmost%20primes.
 for n=0 this prints the first sphenic number which is 30.
