@@ -1,14 +1,12 @@
 // C++ program for implementation of Heap Sort
-#include <bits/stdc++.h> //Though <iostream> would have been sufficient for this snippet, but
-//using <bits/stdc++.h> is a time saving as it includes all necessary files in one command
-
+#include <bits/stdc++.h>
 using namespace std;
 
 // To heapify a subtree rooted with node i which is
 // an index in arr[]. n is size of heap
 void heapify(int arr[], int n, int i)
 {
-	int largest = i; // Initialize largest as root
+	int largest = i;   // Initialize largest as root
 	int l = 2 * i + 1; // left = 2*i + 1
 	int r = 2 * i + 2; // right = 2*i + 2
 
@@ -21,7 +19,8 @@ void heapify(int arr[], int n, int i)
 		largest = r;
 
 	// If largest is not root
-	if (largest != i) {
+	if (largest != i)
+	{
 		swap(arr[i], arr[largest]);
 
 		// Recursively heapify the affected sub-tree
@@ -37,7 +36,8 @@ void heapSort(int arr[], int n)
 		heapify(arr, n, i);
 
 	// extract an element from heap one at a time
-	for (int i = n - 1; i > 0; i--) {
+	for (int i = n - 1; i > 0; i--)
+	{
 		// Move current root to end
 		swap(arr[0], arr[i]);
 
@@ -57,8 +57,8 @@ void printArray(int arr[], int n)
 // Driver code
 int main()
 {
-    //any random array values can be taken.
-	int arr[] = { 15, 20, 3, 6, 18, 4 };
+	//any random array values can be taken.
+	int arr[] = {15, 20, 3, 6, 18, 4};
 	int n = sizeof(arr) / sizeof(arr[0]);
 
 	heapSort(arr, n);
@@ -66,5 +66,5 @@ int main()
 	cout << "Sorted array is \n";
 	printArray(arr, n);
 
-    return 0;
+	return 0;
 }

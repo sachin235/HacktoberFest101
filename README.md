@@ -1,6 +1,6 @@
 # HacktoberFest
-![HacktoberFest2021](https://user-images.githubusercontent.com/75477054/137994932-6beb2692-970f-4168-b8e5-e2b4bef0bc67.jpg)
 
+![HacktoberFest2021](https://user-images.githubusercontent.com/75477054/137994932-6beb2692-970f-4168-b8e5-e2b4bef0bc67.jpg)
 
 A repository to help budding developers have their first commit!
 
@@ -25,9 +25,10 @@ Hacktoberfest is open to everyone in our global community. All backgrounds and s
 
 - Fork this repository
 - Star the repo
+- Select from the open issues to work on
+- Open new issue if you feel something is missig or needs to be modified.
 - Add your details in the Contributors file
-- You can also add basic programs in your favorite programming language, say Hello World :)
-- Add file and commit the changes
+- Commit your changes with a proper commit message
 - Make a PR (Pull Request)
 
 And Have Fun!!!
