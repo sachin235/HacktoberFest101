@@ -1,14 +1,19 @@
+// A C++ Program to detect
+// cycle in an undirected graph
 #include<iostream>
 #include <list>
 #include <limits.h>
 using namespace std;
 
+// Class for an undirected graph
 class Graph
 {
      
   
     int V;  
 
+    // Pointer to an array
+    // containing adjacency lists
     list<int> *adj; 
     bool isCyclicUtil(int v, bool visited[],
                               int parent);
@@ -32,12 +37,20 @@ void Graph::addEdge(int v, int w)
     adj[w].push_back(v);
 }
  
+
+// A recursive function that
+// uses visited[] and parent to detect
+// cycle in subgraph reachable
+// from vertex v.
 bool Graph::isCyclicUtil(int v,
                 bool visited[], int parent)
 {
      
     visited[v] = true;
  
+     
+    // Recur for all the vertices
+    // adjacent to this vertex 
     list<int>::iterator i;
     for (i = adj[v].begin(); i !=
                        adj[v].end(); ++i)
@@ -69,6 +82,8 @@ bool Graph::isCyclic()
     return false;
 }
 
+
+// Driver program to test above functions
 int main()
 {
     Graph g1(5);
