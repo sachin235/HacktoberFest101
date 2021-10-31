@@ -3,11 +3,9 @@
 public class ADTFractionApp {
 
   /**
-   * @author Yashmi Kumarasiri (https://github.com/yashmi110) - ADTFRACTION APP- A fraction is the
-   * quotient of two numbers n d, where n and d are both integers and d ≠ 0.
-   * n is called the numerator and d is the denominator.This code is to implement
-   * some basic operations(addition,multiplication,get the reciprocal and numeric values,
-   * display fraction in n/d format) on fractions
+   * This code is to implement some basic operations 
+   * (addition, multiplication, get the reciprocal and numeric values,
+   * display fraction in n/d format) on fractions.
    */
   public static void main(String[] args) {
     ADTFraction f1 = new ADTFraction(3, 5);
