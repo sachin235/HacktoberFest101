@@ -1,5 +1,3 @@
-#!/usr/bin/python
-
 '''
 This algorithm determines if a number n is happy number.
 '''
