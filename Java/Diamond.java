@@ -3,6 +3,7 @@ import java.util.*;
  class Diamond  {
     public static void main(String args[]) {
         Scanner scanner = new Scanner(System.in);
+        System.out.print("Enter number of Rows:")
         int row_number = scanner.nextInt();
         int space= row_number/2;
         int spacecount= 1;
