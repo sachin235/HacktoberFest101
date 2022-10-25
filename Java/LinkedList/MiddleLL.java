@@ -1,8 +1,8 @@
 /*
 Solution : Tortoise-Hare-Approach
 
-Unlike the above approach, we don’t have to maintain node count here and we will be able to find the middle node in a single traversal 
-so this approach is more efficient.
+Unlike the brute-force approach, we don’t have to maintain node count here and we will be able to find the middle node in a single traversal 
+so this approach is very efficient.
 
 Intuition: In the Tortoise-Hare approach, we increment slow ptr by 1 and fast ptr by 2, so if take a close look fast ptr will travel 
 double than that of the slow pointer. So when the fast ptr will be at the end of Linked List, slow ptr would have covered half of 
