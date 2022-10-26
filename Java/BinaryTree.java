@@ -1,4 +1,4 @@
-#diagonal sum in a binary tree in java
+//diagonal sum in a binary tree in java
 import java.util.*;
 class Node
 {
