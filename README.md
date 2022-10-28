@@ -1,6 +1,6 @@
-# HACKTOBERFEST
+# HacktoberFest
 
-![HacktoberFest2021](https://user-images.githubusercontent.com/97526225/194758000-e3c8a909-57c4-4806-8ba4-ed70492b0930.jpeg)
+![HacktoberFest2022](https://user-images.githubusercontent.com/97526225/194758000-e3c8a909-57c4-4806-8ba4-ed70492b0930.jpeg)
 
 A repository to help budding developers have their first commit!
 
@@ -11,6 +11,7 @@ Hacktoberfest is open to everyone in our global community. All backgrounds and s
 3. You can sign up anytime between October 1 and October 31.
 
 # CONTRIBUTORS
+
 ## HERE’S WHAT YOU NEED TO KNOW TO PARTICIPATE AND COMPLETE HACKTOBERFEST:
 
 Register anytime between September 26 and October 31
@@ -23,8 +24,8 @@ Have 4 pull/merge requests accepted between October 1 and October 31 to complete
 
 The first 40,000 participants (maintainers and contributors) who complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the Hacktoberfest 2022 t-shirt.
 
-
 # RESOURCES FOR BEGINNERS
+
 ## INTRO TO OPEN SOURCE
 
 DigitalOcean: [INTRODUCTION TO GITHUB AND OPEN-SOURCE PROJECTS](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
@@ -48,4 +49,3 @@ DigitalOcean: [HOW TO USE GIT](https://www.digitalocean.com/community/cheatsheet
 - Make a PR (Pull Request)
 
 And Have Fun!!!
-
