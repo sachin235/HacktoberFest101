@@ -40,7 +40,7 @@ public class TransposeMatrix {
 /*        SAMPLE OUTPUT
 Enter the order of matrix: 3 3
 Enter the elements in row 1: 1 2 3
-Enter the elements in row 2:  4 5 6
+Enter the elements in row 2: 4 5 6
 Enter the elements in row 3: 7 8 9
 Transpose of the matrix: 
 1 4 7
