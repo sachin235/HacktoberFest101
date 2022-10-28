@@ -1,12 +1,7 @@
-// CHECKING IF AN ENTERED NUMBER IS A STRONG/KRISHNAMURTHY/PETERSON/SPECIAL NUMBER
+// CHECK IF THE GIVEN NUMBER IS A STRONG/KRISHNAMURTHY/PETERSON/SPECIAL NUMBER
 
 import java.util.Scanner;
 
-/**
- * @author Dipyaman Saha (https://github.com/dipyamansaha) - STRONG NUMBER - Strong number is a
- *     special number whose sum of factorial of digits is equal to the original number. For example:
- *     145 is strong number, since, 1! + 4! + 5! = 145.
- */
 public class StrongNumber {
   static int RecursiveFactorialFinder(int num) {
     return ((num == 0 || num == 1) ? 1 : (num * RecursiveFactorialFinder(num - 1)));
