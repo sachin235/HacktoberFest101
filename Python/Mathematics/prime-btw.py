@@ -1,3 +1,5 @@
+# Find prime numbers between 2 given numbers
+
 def find_prime(n, m):
     if n > m:
         small = m
