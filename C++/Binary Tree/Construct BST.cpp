@@ -1,4 +1,5 @@
 // A C++ prgroam to contrcut all unique BSTs for keys from 1 to n
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -56,14 +57,14 @@ vector<struct node *> constructTrees(int start, int end)
 			them to ith root below */
 		for (int j = 0; j < leftSubtree.size(); j++)
 		{
-			struct node* left = leftSubtree[j];
+			struct node *left = leftSubtree[j];
 			for (int k = 0; k < rightSubtree.size(); k++)
 			{
-				struct node * right = rightSubtree[k];
-				struct node * node = newNode(i);// making value i as root
-				node->left = left;			 // connect left subtree
-				node->right = right;		 // connect right subtree
-				list.push_back(node);		 // add this tree to list
+				struct node *right = rightSubtree[k];
+				struct node *node = newNode(i); // making value i as root
+				node->left = left;				// connect left subtree
+				node->right = right;			// connect right subtree
+				list.push_back(node);			// add this tree to list
 			}
 		}
 	}
@@ -75,7 +76,6 @@ int main()
 {
 	// Construct all possible BSTs
 	vector<struct node *> totalTreesFrom1toN = constructTrees(1, 3);
-
 
 	/* Printing preorder traversal of all constructed BSTs */
 	cout << "Preorder traversals of all constructed BSTs are \n";
