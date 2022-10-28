@@ -1,6 +1,6 @@
-# HacktoberFest
+# HACKTOBERFEST
 
-![HacktoberFest2021](https://user-images.githubusercontent.com/75477054/137994932-6beb2692-970f-4168-b8e5-e2b4bef0bc67.jpg)
+![HacktoberFest2021](https://user-images.githubusercontent.com/97526225/194758000-e3c8a909-57c4-4806-8ba4-ed70492b0930.jpeg)
 
 A repository to help budding developers have their first commit!
 
@@ -10,14 +10,30 @@ Hacktoberfest is open to everyone in our global community. All backgrounds and s
 2. Pull requests can be made in any GitHub-hosted repositories/projects.
 3. You can sign up anytime between October 1 and October 31.
 
-## Guidelines
+# CONTRIBUTORS
+## HERE’S WHAT YOU NEED TO KNOW TO PARTICIPATE AND COMPLETE HACKTOBERFEST:
 
-- Pull/merge requests can be submitted to any opted-in repository on GitHub or GitLab.
-- The pull/merge request must contain commits you made yourself.
-- If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
-- If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate.
-- To get a prize, you must make four approved pull/merge requests (PRs/MRs) on opted-in projects between October 1st and 31st in any time zone.
-- This year, the first 50,000 participants can earn a prize: a tree planted in their name, or the Hacktoberfest T-shirt.
+Register anytime between September 26 and October 31
+
+Pull requests can be made in any [GITHUB](https://github.com/topics/hacktoberfest) or [GITLAB](https://gitlab.com/explore/projects/topics/hacktoberfest) hosted project that’s participating in Hacktoberfest (look for the “hacktoberfest” topic)
+
+Project maintainers must accept your pull/merge requests for them to count toward your total
+
+Have 4 pull/merge requests accepted between October 1 and October 31 to complete Hacktoberfest
+
+The first 40,000 participants (maintainers and contributors) who complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the Hacktoberfest 2022 t-shirt.
+
+
+# RESOURCES FOR BEGINNERS
+## INTRO TO OPEN SOURCE
+
+DigitalOcean: [INTRODUCTION TO GITHUB AND OPEN-SOURCE PROJECTS](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
+
+GitHub: [HOW TO CONTRIBUTE TO OPEN SOURCE](https://opensource.guide/how-to-contribute/)
+
+DigitalOcean: [WHAT IS OPEN SOURCE](https://www.digitalocean.com/community/tutorials/what-is-open-source)
+
+DigitalOcean: [HOW TO USE GIT](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
 
 ### Contribute to Open Source and make a valid PR to complete the HactoberFest challenge...
 
@@ -33,14 +49,3 @@ Hacktoberfest is open to everyone in our global community. All backgrounds and s
 
 And Have Fun!!!
 
-## Getting started with Git
-
-These are some useful resources for the beginners:
-
-- [Git Tutorial](https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git)
-
-- [Git CheatSheet](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
-
-- [How to create a Pull Request](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
-
-- [How to rebase and update Pull Request](https://www.digitalocean.com/community/tutorials/how-to-rebase-and-update-a-pull-request)
