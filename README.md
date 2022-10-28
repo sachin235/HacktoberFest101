@@ -19,17 +19,21 @@ Hacktoberfest is open to everyone in our global community. All backgrounds and s
 - To get a prize, you must make at least four approved pull/merge requests (PRs/MRs) on opted-in projects between October 1st and 31st in any time zone.
 - The first 40,000 participants (maintainers and contributors) who complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the Hacktoberfest 2022 t-shirt.
 
-# RESOURCES FOR BEGINNERS
+## Resources for beginners
 
-## INTRO TO OPEN SOURCE
+Some useful resources to get started:
 
-DigitalOcean: [INTRODUCTION TO GITHUB AND OPEN-SOURCE PROJECTS](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
+- [Introduction to GitHub and Open-Source Projects](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
 
-GitHub: [HOW TO CONTRIBUTE TO OPEN SOURCE](https://opensource.guide/how-to-contribute/)
+- [What is Open Source](https://www.digitalocean.com/community/tutorials/what-is-open-source)
 
-DigitalOcean: [WHAT IS OPEN SOURCE](https://www.digitalocean.com/community/tutorials/what-is-open-source)
+- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 
-DigitalOcean: [HOW TO USE GIT](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
+- [How To Use Git](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
+
+- [How To Create a Pull Request](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
+
+- [How To Rebase and Update a PR](https://www.digitalocean.com/community/tutorials/how-to-rebase-and-update-a-pull-request)
 
 ### Contribute to Open Source and make a valid PR to complete the HactoberFest challenge...
 
