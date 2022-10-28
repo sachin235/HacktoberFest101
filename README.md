@@ -19,6 +19,20 @@ Hacktoberfest is open to everyone in our global community. All backgrounds and s
 - To get a prize, you must make at least four approved pull/merge requests (PRs/MRs) on opted-in projects between October 1st and 31st in any time zone.
 - The first 40,000 participants (maintainers and contributors) who complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the Hacktoberfest 2022 t-shirt.
 
+### Contribute to Open Source and make a valid PR to complete the HactoberFest challenge...
+
+## Steps for contribution
+
+- Fork this repository
+- Star the repo
+- Select from the open issues to work on
+- Open new issue if you feel something is missig or needs to be modified.
+- Add your details in the Contributors file
+- Commit your changes with a proper commit message
+- Make a PR (Pull Request)
+
+And Have Fun!!!
+
 ## Resources for beginners
 
 Some useful resources to get started:
@@ -34,17 +48,3 @@ Some useful resources to get started:
 - [How To Create a Pull Request](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
 
 - [How To Rebase and Update a PR](https://www.digitalocean.com/community/tutorials/how-to-rebase-and-update-a-pull-request)
-
-### Contribute to Open Source and make a valid PR to complete the HactoberFest challenge...
-
-## Steps for contribution
-
-- Fork this repository
-- Star the repo
-- Select from the open issues to work on
-- Open new issue if you feel something is missig or needs to be modified.
-- Add your details in the Contributors file
-- Commit your changes with a proper commit message
-- Make a PR (Pull Request)
-
-And Have Fun!!!
