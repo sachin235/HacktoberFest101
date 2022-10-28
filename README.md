@@ -10,19 +10,14 @@ Hacktoberfest is open to everyone in our global community. All backgrounds and s
 2. Pull requests can be made in any GitHub-hosted repositories/projects.
 3. You can sign up anytime between October 1 and October 31.
 
-# CONTRIBUTORS
+## Guidelines to contribute
 
-## HERE’S WHAT YOU NEED TO KNOW TO PARTICIPATE AND COMPLETE HACKTOBERFEST:
-
-Register anytime between September 26 and October 31
-
-Pull requests can be made in any [GITHUB](https://github.com/topics/hacktoberfest) or [GITLAB](https://gitlab.com/explore/projects/topics/hacktoberfest) hosted project that’s participating in Hacktoberfest (look for the “hacktoberfest” topic)
-
-Project maintainers must accept your pull/merge requests for them to count toward your total
-
-Have 4 pull/merge requests accepted between October 1 and October 31 to complete Hacktoberfest
-
-The first 40,000 participants (maintainers and contributors) who complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the Hacktoberfest 2022 t-shirt.
+- Pull/merge requests can be submitted to any opted-in repository on GitHub or GitLab.
+- The pull/merge request must contain commits you made yourself.
+- If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
+- If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate.
+- To get a prize, you must make at least four approved pull/merge requests (PRs/MRs) on opted-in projects between October 1st and 31st in any time zone.
+- The first 40,000 participants (maintainers and contributors) who complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the Hacktoberfest 2022 t-shirt.
 
 # RESOURCES FOR BEGINNERS
 
