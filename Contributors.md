@@ -1,104 +1,126 @@
-# Add name, college and your favourite programming language
+# Contributors
 
-Edit this markdown file and commit the PR
+```
+- Edit this markdown file after making a valid contribution
+- Add details like name, college and programming language of contribution and raise the PR
+```
 
 ### Aman
+
 - KCC
 - Python
 
 ### Sachin
+
 - DTU
 - C++
 
 ### Hammad Ahmed
+
 - FAST NU, Islamabad, Pakistan
 - C++, Python, Javascript
 
 ### Shivam
+
 - NSUT
 - Python
 
 ### Aakash
+
 - DTU
 - Java
 
-### George Devasia
-- Python
-
-
 ### Onkar Setia
+
 - CUH
 - JAVA
 
 ### Vaishnavi
+
 -VIT
 -Java
 
 ### Ekansh
+
 - DTU
 - Python
 
 ### Saurabh Kumar
+
 - Delhi University
 - Java
 
 ### Naman Taneja
+
 - NSUT
 - Python
 
 ### Riya
+
 - KIIT
 - C++
 
 ### Kartik
+
 - DTU
 - C++
 
 ### Bhumika Dhingra
+
 - BPIT
 - Python
 
 ### Dajinder Singh
+
 - BPIT
 - Java
 
 ### Apoorva Gupta
+
 - DTU
 - JAVA
 
 ### Vikalp Shishodia
+
 - DTU
 - C++
 
 ### Piyush waliyan
+
 - BPIT
 - Java
 
 ### Sachin Sharma
+
 - BPIT
 - Python
 
 ### Deepanshu
+
 - DTU
 - C++
 
-### Garrett
-- Self Taught
-- JavaScript
-
 ### Akash
+
 - DTU
 - C++
 
 ### Mansi Singh
+
 - LPU
 - Java
 
 ### Tharindu Dilshan
+
 - IIT
 - Java
 
-### Tajdar Alam (MacTavish)
+### Idris
+
+- Nile University
 - Java
+
+### Harsh Patel
+
+- DAIICT
 - Python
-- Bash Script
