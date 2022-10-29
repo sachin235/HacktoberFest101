@@ -110,9 +110,9 @@
 - LPU
 - Java
 
-### Rebecca Mathews (bytesofbec)
+### Rebecca Mathews
 
-- C++
+- Python
 
 ### Tharindu Dilshan
 
