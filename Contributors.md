@@ -112,6 +112,8 @@
 
 ### Rebecca Mathews (bytesofbec)
 
+- C++
+
 ### Tharindu Dilshan
 
 - IIT
