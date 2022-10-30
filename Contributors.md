@@ -5,6 +5,10 @@
 - Add details like name, college and programming language of contribution and raise the PR
 ```
 
+### Zain Ali Shah
+
+- Python
+
 ### Aman
 
 - KCC
