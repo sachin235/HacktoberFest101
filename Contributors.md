@@ -15,6 +15,10 @@
 - DTU
 - C++
 
+### Amar Ranjan
+- Front End Developer
+- Android Developer
+
 ### Hammad Ahmed
 
 - FAST NU, Islamabad, Pakistan
