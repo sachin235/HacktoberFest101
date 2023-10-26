@@ -2,38 +2,32 @@
 // uses Bubble Sort to modify tag array according
 // to salaries. We can use other optimized sorting
 // techniques also.
-class Person
-{
+class Person {
 	private int id;
 	private float salary;
 	private Object someBigObject = new Object();
 
-	public Person(int id, float salary)
-	{
+	public Person(int id, float salary) {
 		this.id = id;
 		this.salary = salary;
 	}
 
-	public float getSalary()
-	{
+	public float getSalary() {
 		return salary;
 	}
 
 	@Override
-	public String toString()
-	{
+	public String toString() {
 		return "Person{" +
-			"id=" + id +
-			", salary=" + salary +
-			", someBigObject=" + someBigObject +
-			'}';
+				"id=" + id +
+				", salary=" + salary +
+				", someBigObject=" + someBigObject +
+				'}';
 	}
 }
 
-public class Main
-{
-	public static void main(String[] args)
-	{
+public class TagSort {
+	public static void main(String[] args) {
 		// Creating objects and their original
 		// order (in tag array)
 		int n = 5;
@@ -52,15 +46,15 @@ public class Main
 		System.out.println("Given Person and Tag ");
 		for (int i = 0; i < n; i++)
 			System.out.println(persons[i] +
-							" : Tag: " + tag[i]);
+					" : Tag: " + tag[i]);
 
 		// Modifying tag array so that we can access
 		// persons in sorted order.
 		tagSort(persons, tag);
 
-		System.out.println("New Tag Array after "+
-						"getting sorted as per Person[] ");
-		for (int i=0; i<n; i++)
+		System.out.println("New Tag Array after " +
+				"getting sorted as per Person[] ");
+		for (int i = 0; i < n; i++)
 			System.out.println(tag[i]);
 
 		// Accessing persons in sorted (by salary)
@@ -72,16 +66,11 @@ public class Main
 	// Modifying tag array so that we can access
 	// persons in sorted order of salary.
 	public static void tagSort(Person persons[],
-							int tag[])
-	{
+			int tag[]) {
 		int n = persons.length;
-		for (int i=0; i<n; i++)
-		{
-			for (int j=i+1; j<n; j++)
-			{
-				if (persons[tag[i]].getSalary() >
-						persons[tag[j]].getSalary())
-				{
+		for (int i = 0; i < n; i++) {
+			for (int j = i + 1; j < n; j++) {
+				if (persons[tag[i]].getSalary() > persons[tag[j]].getSalary()) {
 					// Note we are not sorting the
 					// actual Persons array, but only
 					// the tag array
