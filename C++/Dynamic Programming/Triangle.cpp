@@ -45,7 +45,4 @@ cout<< minimumTotal(sample);
 }
 
 
-
-
-
         
